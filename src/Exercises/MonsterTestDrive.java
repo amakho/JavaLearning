@@ -1,3 +1,5 @@
+package Exercises;
+
 public class MonsterTestDrive {
     public static void main(String[]args){
         Monster[] ma = new Monster[3];

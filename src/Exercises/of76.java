@@ -1,3 +1,5 @@
+package Exercises;
+
 public class of76 extends Clowns {
     public static void main(String[] args){
         Nose[] i = new Nose[3];

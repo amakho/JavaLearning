@@ -1,3 +1,5 @@
+package Exercises;
+
 public class Duck {
     int pounds = 6;
     float floatability = 2.1F;

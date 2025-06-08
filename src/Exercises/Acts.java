@@ -1,4 +1,6 @@
-class Acts extends Picasso{
+package Exercises;
+
+class Acts extends Picasso {
     @Override
     public int iMethod() {
         return 5;

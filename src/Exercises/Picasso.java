@@ -1,3 +1,5 @@
+package Exercises;
+
 abstract class Picasso implements Nose {
     @Override
     public int iMethod() {

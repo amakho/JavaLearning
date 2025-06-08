@@ -1,3 +1,5 @@
+package Exercises;
+
 import java.util.*;
 public class ArrayListMagnet {
     public static void printAl(ArrayList<String> al){

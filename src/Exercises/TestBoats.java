@@ -1,3 +1,5 @@
+package Exercises;
+
 public class TestBoats {
     public static void main(String[] args){
         Boat b1 = new Boat();

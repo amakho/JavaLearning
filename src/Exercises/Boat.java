@@ -1,3 +1,5 @@
+package Exercises;
+
 public class Boat {
     private int length;
     public void setLength(int len){

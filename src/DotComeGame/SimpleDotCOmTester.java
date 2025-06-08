@@ -1,3 +1,7 @@
+package DotComeGame;
+
+import DotComeGame.SimpleDotCom;
+
 public class SimpleDotCOmTester{
     public  static void main(String[] args){
         SimpleDotCom dot = new SimpleDotCom();

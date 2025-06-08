@@ -1,3 +1,7 @@
+package Exercises;
+
+import Exercises.Duck;
+
 public class TestDuck {
     public static void main (String[] args){
         int weight = 8;

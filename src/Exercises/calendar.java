@@ -1,3 +1,5 @@
+package Exercises;
+
 import java.util.Calendar;
 import java.util.*;
 import static java.lang.System.out;

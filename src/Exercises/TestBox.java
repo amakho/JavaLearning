@@ -1,3 +1,5 @@
+package Exercises;
+
 public class TestBox {
     Integer i;
     int j;

@@ -1,3 +1,7 @@
+package DotComeGame;
+
+import DotComeGame.SimpleDotCom;
+
 public class SimpleDotComGame {
     public static void main(String[] args) {
         int numOfGuesses = 0;
