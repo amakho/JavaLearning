@@ -1,5 +1,5 @@
 package PLWSBMerito;
-import java.net.URI;
+/*import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
@@ -40,4 +40,4 @@ public class Weather {
     static class Condition {
         String text;
     }
-}
+}*/
